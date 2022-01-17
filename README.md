@@ -1,11 +1,13 @@
 # Cone-Shooter
+A basic game built using <b>Unreal Engine</b>, looking for contributors to work on the next Version.
 
-A basic game to begin with. This will be later updated.
+# Demo
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Extra/Demo.gif" width="65%" height="50%"><br>
 
-## Music used
-
-- Epic Cinematic Gaming Cyberpunk | RESET by Alex-Productions | https://www.youtube.com/channel/UCx0_M61F81Nfb-BRXE-SeVA
-Music promoted by https://www.chosic.com/free-music/all/
-Creative Commons CC BY 3.0
-https://creativecommons.org/licenses/by/3.0/
+## References
+### Music used
+- Epic Cinematic Gaming Cyberpunk | RESET by Alex-Productions 
+  - https://www.youtube.com/channel/UCx0_M61F81Nfb-BRXE-SeVA
+- Music promoted by : https://www.chosic.com/free-music/all/
+- Creative Commons CC BY 3.0 : https://creativecommons.org/licenses/by/3.0/
  
